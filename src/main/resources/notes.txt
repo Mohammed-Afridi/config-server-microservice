@@ -1,0 +1,2 @@
+New project for spring cloud config server
+here only add devtools and config server dependency
